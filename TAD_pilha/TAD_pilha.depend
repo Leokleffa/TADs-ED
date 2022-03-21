@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647820488 source:c:\programação c\tad_pilha\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1647816533 c:\programação c\tad_pilha\header.h
+

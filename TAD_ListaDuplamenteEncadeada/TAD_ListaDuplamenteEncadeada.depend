@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647809332 source:c:\programação c\tad_listaduplamenteencadeada\main.c
+	"header.h"
+	<stdlib.h>
+	<stdio.h>
+
+1647807051 c:\programação c\tad_listaduplamenteencadeada\header.h
+
+1647809294 source:c:\programação c\tad_listaduplamenteencadeada\funcoes.c
+	<stdlib.h>
+	<stdio.h>
+	"header.h"
+
