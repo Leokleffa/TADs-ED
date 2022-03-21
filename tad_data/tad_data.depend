@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1642731736 source:c:\programação c\tad_data\data.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"data.h"
+
+1642731897 c:\programação c\tad_data\data.h
+
+1642731736 source:c:\programação c\tad_data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"data.h"
+

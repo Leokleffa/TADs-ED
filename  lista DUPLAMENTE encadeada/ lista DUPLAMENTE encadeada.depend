@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1645232453 source:c:\programação c\ lista duplamente encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1645231679 c:\programação c\ lista duplamente encadeada\header.h
+
+1645234109 source:c:\programação c\ lista duplamente encadeada\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+

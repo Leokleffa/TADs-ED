@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1643055889 source:c:\programação c\tad_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1643056604 c:\programação c\tad_lista\lista.h
+
+1643055927 source:c:\programação c\tad_lista\teste.c
+	<stdio.h>
+	<stdlib.h>
+
+1643056604 source:c:\programação c\tad_lista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
