@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649248052 source:c:\users\leona\downloads\rubronegra\funcoes.c
+	"header.h"
+
+1649248052 c:\users\leona\downloads\rubronegra\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1649248052 source:c:\users\leona\downloads\rubronegra\main.c
+	"header.h"
+

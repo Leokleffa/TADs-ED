@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649245929 source:c:\users\leona\downloads\tad_avl_novo\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1649245929 c:\users\leona\downloads\tad_avl_novo\header.h
+
+1649245929 source:c:\users\leona\downloads\tad_avl_novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
