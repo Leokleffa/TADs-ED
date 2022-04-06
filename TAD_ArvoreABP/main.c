@@ -5,11 +5,21 @@
 int main(){
     Nodo *raiz, *consulta;
     int cod, num, opcao;
-    char info;
+    int info;
 
     raiz=inicializa();
-
-    do{
+    raiz=InsereArvore(raiz, 44);
+    raiz=InsereArvore(raiz, 30);
+    raiz=InsereArvore(raiz, 92);
+    raiz=InsereArvore(raiz, 12);
+    raiz=InsereArvore(raiz, 36);
+    raiz=InsereArvore(raiz, 64);
+    raiz=InsereArvore(raiz, 98);
+    raiz=InsereArvore(raiz, 26);
+    raiz=InsereArvore(raiz, 33);
+    raiz=InsereArvore(raiz, 46);
+    preFixadoDir(raiz);
+    /*do{
         printf("1-continuar\n0-sair\n");
         scanf("%d", &num);
         if(num!=0){
@@ -51,7 +61,7 @@ int main(){
                 default: printf("Opcao invalida!\n");break;
             }
         }
-    }while(num!=0);
+    }while(num!=0);*/
     return 0;
 }
 

@@ -5,7 +5,7 @@
 }INFO;*/
 
 typedef struct NO{
-    char info;
+    int info;
     struct NO *esq;
     struct NO *dir;
 }Nodo;
@@ -21,5 +21,5 @@ void centralDir(Nodo* a);
 void posFixadoEsq(Nodo* a);
 void posFixadoDir(Nodo* a);
 Nodo* consultaABP(Nodo *a, char info);
-Nodo* InsereArvore(Nodo *a, char info);
+Nodo* InsereArvore(Nodo *a, int info);
 

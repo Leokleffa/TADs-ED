@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1649213114 source:c:\programação c\tad_abp\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"header.h"
+
+1649213113 c:\programação c\tad_abp\header.h
+
+1649245161 source:c:\programação c\tad_abp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

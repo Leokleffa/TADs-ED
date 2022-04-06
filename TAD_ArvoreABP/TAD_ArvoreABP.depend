@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1647866705 source:c:\programação c\tad_arvoreabp\main.c
+1649104413 source:c:\programação c\tad_arvoreabp\main.c
 	<stdio.h>
 	<stdlib.h>
 	"header.h"
 
-1647866083 c:\programação c\tad_arvoreabp\header.h
+1649104258 c:\programação c\tad_arvoreabp\header.h
 
-1647866091 source:c:\programação c\tad_arvoreabp\funcoes.c
+1649104258 source:c:\programação c\tad_arvoreabp\funcoes.c
 	<stdio.h>
 	<stdlib.h>
 	"header.h"

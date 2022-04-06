@@ -86,7 +86,7 @@ void imprimeDado(char cod){
 void preFixadoEsq(Nodo* a){
     if (a!= NULL)
     {
-        imprimeDado(a->info);
+        printf("%d\n",a->info);
         preFixadoEsq(a->esq);
         preFixadoEsq(a->dir);
     }
@@ -95,7 +95,7 @@ void preFixadoEsq(Nodo* a){
 void preFixadoDir(Nodo* a){
     if (a!= NULL)
     {
-        imprimeDado(a->info);
+        printf("%d\n",a->info);
         preFixadoDir(a->dir);
         preFixadoDir(a->esq);
     }
@@ -150,7 +150,7 @@ Nodo* consultaABP(Nodo *a, char chave){
                 return consultaABP(a->dir,chave);
 }
 
-Nodo* InsereArvore(Nodo *a, char ch){
+Nodo* InsereArvore(Nodo *a, int ch){
     if(a==NULL){
         a=(Nodo*) malloc(sizeof(Nodo));
         a->info=ch;
