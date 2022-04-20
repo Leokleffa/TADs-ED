@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650461034 source:c:\programação c\tad_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1650460910 c:\programação c\tad_fila\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1650461130 source:c:\programação c\tad_fila\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
